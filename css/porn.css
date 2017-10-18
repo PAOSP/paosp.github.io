@@ -1,0 +1,27 @@
+body {
+    background-color: #050505;
+}
+
+.header {
+    padding: 3em;
+}
+
+#nav-mobile a {
+    color: black !important;
+    font-weight: 500;
+}
+
+.center {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.dank-section {
+    margin-top: 1em;
+    margin-botton: 1em;
+    color: white;
+}
+
+h3 {
+    color: #fff;
+}
