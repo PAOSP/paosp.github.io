@@ -18,7 +18,7 @@ body {
 
 .dank-section {
     margin-top: 1em;
-    margin-botton: 1em;
+    margin-bottom: 1em;
     color: white;
 }
 
@@ -52,4 +52,13 @@ h3 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.dank-card i {
+    font-size: 10em !important;
+    margin: 5px;
+}
+
+.dank-card .responsive-img {
+    margin: 10px
 }
