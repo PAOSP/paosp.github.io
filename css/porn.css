@@ -22,6 +22,34 @@ body {
     color: white;
 }
 
+.dank-section a {
+    color: #ff6f00;
+}
+
 h3 {
-    color: #fff;
+    color: #ffa000;
+}
+
+.collection-header {
+    color: #ffa000;
+    background-color: #111 !important;
+}
+
+.collection {
+    border-color: #333333 !important;
+}
+
+.collection-item {
+    background-color: inherit !important;
+    border-color: #333333 !important;
+}
+
+.dank-card {
+    background-color: #111;
+    color: #ff6f00;
+    height: 20em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
