@@ -2,6 +2,10 @@ body {
     background-color: #050505;
 }
 
+p {
+    text-align: justify;
+}
+
 .header {
     padding: 3em;
 }
@@ -47,12 +51,13 @@ h3 {
 .dank-card {
     background-color: #111;
     color: #ff6f00;
-    height: 20em;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 5em;
 }
+
 
 .dank-card i {
     font-size: 10em !important;
