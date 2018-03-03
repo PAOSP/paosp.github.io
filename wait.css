@@ -1,0 +1,25 @@
+body {
+    background: #141415;
+    color: #fff;
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 97vh;
+    width: 100%;
+    text-align: center;
+}
+
+.logo-legit img {
+    max-width: 87%;
+}
+
+h1 {
+    color: #ffa000;
+}
