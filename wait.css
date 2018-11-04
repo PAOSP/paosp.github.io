@@ -23,3 +23,19 @@ body {
 h1 {
     color: #ffa000;
 }
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #ffa000;
+}
+
+a:visited {
+    color: #ffa000;
+}
+
+a:active {
+    color: #ffc970;
+}
